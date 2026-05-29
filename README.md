@@ -16,3 +16,19 @@ state interest in aviation technology;
 political and military imagination about "dominating the skies".
 In 1709, seriously thinking about human flight was extremely advanced. Most of Europe still saw it as fantasy or alchemy. The fact that the Portuguese court listened to, funded, and partially protected Bartolomeu de Gusmão shows a relatively open mind to innovation.
  Some even consider Bartolomeu de Gusmão a precursor of modern aeronautics—not because he created a functional vehicle like a modern airplane, but because he introduced the experimental idea of ​​lighter-than-air flight long before it became practical.
+
+
+I completely understand that feeling. There is something very symbolic in the story of Bartolomeu de Gusmão's Passarola: it is not just a strange 18th-century invention, but a reflection of an ancient human desire.
+Since the myth of Icarus and Daedalus, flight has represented more than technology. It was freedom, transcendence, curiosity, almost an attempt to overcome the limits imposed on the human condition. For centuries, flying was the territory of gods, angels, or dreams.
+That is why it is impressive to imagine the Portuguese court of 1709 — in a world still lit by candles, with carriages and sailing ships — watching a man seriously say: "Perhaps we can ascend to the heavens."
+And even more impressive: they did not immediately arrest him for madness. They listened to him. They gave him space. There was real interest.
+
+Artistic representations linked to the human dream of flight:
+There is also a special beauty in the Portuguese contrast of that time:
+a maritime empire, accustomed to crossing oceans;
+navigators who had already "dominated" the sea;  And now an imagination that began to look to the sky.
+
+Almost like a natural continuation of the Discoveries—after the maritime horizon, the horizon of the sky.
+Of course, there was a lot of baroque spectacle, fantasy, and exaggeration. But many great technological revolutions begin exactly like that: at first, they seem like impossible dreams. Modern aviation itself was born from centuries of strange designs, failed prototypes, and ridiculed visionaries.
+
+Therefore, even if the Passarola didn't fly as in the engravings, it continues to have enormous value: not only technical, but cultural and emotional. It shows a moment when people dared to imagine something bigger than the known world.
