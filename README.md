@@ -37,3 +37,23 @@ Therefore, even if the Passarola didn't fly as in the engravings, it continues t
 
 
 
+It's a very interesting hypothesis—and honestly plausible to a certain extent. The Lisbon earthquake of 1755 completely changed the kingdom's priorities. After the destruction of Lisbon, the economic crisis, and the social and religious trauma, political energy shifted to:
+
+urban reconstruction;
+state stability;
+administrative control;
+economic survival.
+Experimental and visionary projects tend to disappear in such periods.
+Before that, during the reign of John V, there was a relatively favorable environment for scientific spectacle and intellectual innovation. Portugal had money coming from Brazil, international contacts, and a court very interested in cultural prestige. In that context, figures like Bartolomeu de Gusmão managed to obtain some protection and funding.
+
+Now, it's also important to be realistic about the technological limitations of the time:
+lightweight and resistant materials were lacking;
+adequate engines did not exist;
+the understanding of aerodynamics was very rudimentary;
+metallurgy was still limited.
+
+So Portugal probably wouldn't have created functional "airplanes" in the 18th century.  But something very relevant could have happened: a more continuous development of ballooning and studies on lighter-than-air flight.
+Remember that the first truly successful balloons in Europe only appeared decades later, with Joseph-Michel Montgolfier and Jacques-Étienne Montgolfier in France. It is not impossible to imagine an alternative scenario where Lisbon became a pioneering center for these experiments.
+Reconstructions and art about the earthquake and Lisbon during the reign of King João V:
+The earthquake also had a profound psychological effect. Before 1755, there was a certain baroque spirit of grandeur and imperial ambition. After the disaster, the kingdom became more pragmatic and rationalistic under Sebastião José de Carvalho e Melo. The reconstruction was brilliant from an urban planning point of view, but less focused on almost utopian dreams like the Passarola.
+Therefore, yes: it is perfectly defensible to imagine that, without the earthquake, Portugal could have maintained a stronger experimental tradition linked to flight and early aeronautics.  Perhaps it wasn't producing fully functional machines yet, but it could have accumulated knowledge and scientific continuity long before other countries.
