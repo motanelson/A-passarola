@@ -9,33 +9,43 @@ class myapps:
         self.root=root
         self.root.title(titles)
         self.root.geometry(str(w)+"x"+str(h))
-        self.root.configure(background="#AAAAAA")
-        self.canvas=tk.Canvas(background="#AAAAAA",width=w,height=h)
+        self.root.configure(background="#888888")
+        self.canvas=tk.Canvas(background="#888888",width=w,height=h)
         self.canvas.pack(padx=0,pady=0)
         ww:float=float(float(w)/float(255))
         a:float=0
         c:int=0
         #print (ww)
-        while True:
-            if int(a)>=w:
-                break
-           
-            bb=colorb
-            gg=colorg
-            rr=colorr
-            if bcolor:
-                bb=c
+        ww = w / 255.0
+        a = 0.0
+        c = 0
+
+        while c <= 255:
+            rr = colorr
+            gg = colorg
+            bb = colorb
+
             if rcolor:
-                rr=c
+                rr = c
             if gcolor:
-                gg=c
-            bbb="00"+str(hex(bb).replace("0x",""))
-            ggg="00"+str(hex(gg).replace("0x",""))
-            rrr="00"+str(hex(rr).replace("0x",""))
-            b="#"+bbb[-2:]+ggg[-2:]+rrr[-2:]
-            self.canvas.create_rectangle(int(a),0,int(a+(ww)+1),h,fill=b)
-            a=a+ww
-            c=c+1
+                gg = c
+            if bcolor:
+                bb = c
+
+            cor = f"#{rr:02X}{gg:02X}{bb:02X}"
+
+            self.canvas.create_rectangle(
+                int(a),
+                0,
+                int(a + ww + 1),
+                h,
+                fill=cor,
+                outline=cor
+            )
+
+            a += ww
+            c += 1
+
 
 
 
