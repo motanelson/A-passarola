@@ -9,12 +9,12 @@ class myapps:
         self.root=root
         self.root.title(titles)
         self.root.geometry(str(w)+"x"+str(h))
-        self.root.configure(background="white")
-        self.canvas=tk.Canvas(background="white",width=w,height=h,)
+        self.root.configure(background="#AAAAAA")
+        self.canvas=tk.Canvas(background="#AAAAAA",width=w,height=h)
         self.canvas.pack(padx=0,pady=0)
-        ww=float(w)/float(255)
+        ww:float=float(float(w)/float(255))
         a:float=0
-        c=0
+        c:int=0
         #print (ww)
         while True:
             if int(a)>=w:
@@ -33,7 +33,7 @@ class myapps:
             ggg="00"+str(hex(gg).replace("0x",""))
             rrr="00"+str(hex(rr).replace("0x",""))
             b="#"+bbb[-2:]+ggg[-2:]+rrr[-2:]
-            self.canvas.create_rectangle(int(a),0,int(a+(ww*2)),h,fill=b)
+            self.canvas.create_rectangle(int(a),0,int(a+(ww)+1),h,fill=b)
             a=a+ww
             c=c+1
 
